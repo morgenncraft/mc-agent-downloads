@@ -2,9 +2,9 @@
   "schema_version": 1,
   "product": "MC Agent Portable Repair Kit",
   "channel": "stable",
-  "version": "0.2.1",
-  "url": "https://github.com/morgenncraft/mc-agent-downloads/releases/download/portable-v0.2.1/MC-Agent-Portable-Repair-Kit-v0.2.1.zip",
-  "sha256": "b12632a4bafde65efe099e62883584b8530bc4b5f4cfec2199a296e67bd35498",
-  "size": 17561657,
-  "published_at": 1791315090
+  "version": "0.2.2",
+  "url": "https://github.com/morgenncraft/mc-agent-downloads/releases/download/portable-v0.2.2/MC-Agent-Portable-Repair-Kit-v0.2.2.zip",
+  "sha256": "2f40d70efff7c8270c22c25c84c91d04dc09c2b69df8291c9b1e8b4c8c369aaf",
+  "size": 20594657,
+  "published_at": 1791316405
 }
